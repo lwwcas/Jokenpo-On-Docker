@@ -29,6 +29,6 @@ Follow official instructions to install:
 
 > You will be able to play the most complicated game in the world. And believe me when I say that you will never win this amazing super computer.
 
-![Project view](Link)
+![Project view](https://github.com/lwwcas/Jokenpo-On-Docker/blob/master/project_view.png)
 
 ### Good luck
